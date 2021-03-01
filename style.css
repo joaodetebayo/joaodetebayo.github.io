@@ -3,9 +3,6 @@ p {
   width: 500px;
   border: 1px solid black;
 }
-html {
-  background-color: #FF8000;
-}
 h1 {
   margin: 0;
   padding: 20px 0;
