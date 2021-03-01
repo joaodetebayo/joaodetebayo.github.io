@@ -5,3 +5,6 @@ img {
   display: block;
   margin: 0 auto;
 }
+html {
+  background-color: #00539F;
+}
