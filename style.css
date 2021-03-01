@@ -1,8 +1,10 @@
+h1 {
+  color: orange;
+}
 img {
   display: block;
   margin: 0 auto;
 }
 h1 {
-    color: #C25100;
     font-family: 'Lobster';
 }
