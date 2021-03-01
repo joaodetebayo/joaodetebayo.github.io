@@ -6,3 +6,9 @@ p {
 html {
   background-color: #FF8000;
 }
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
