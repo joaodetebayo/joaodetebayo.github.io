@@ -1,4 +1,7 @@
 h1{
   color: orange;
 }
-h1{ font-family: arial;}
+img{
+	max-width:100%;
+	height:auto;
+}
