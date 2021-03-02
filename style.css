@@ -1,14 +1,7 @@
-h1{
-  color: orange;
+body {
+background-color: #FFCC66;
 }
-h2{
-    background-color: #B3A742;
-    background: -webkit-linear-gradient(top,#9C8F67, #C7BE9B 30%);
-    background: -moz-linear-gradient(top,#9C8F67, #C7BE9B 30%);
-    background: -o-linear-gradient(top,#9C8F67, #C7BE9B 30%);
-    background: -ms-linear-gradient(top,#9C8F67, #C7BE9B 30%);
-    border-radius: 15px;
-    border: 1px solid black;
-    padding: 5px;
-    color: #FFFFFF;
+h1 {
+color: #990000;
+background-color: #FC9804;
 }
