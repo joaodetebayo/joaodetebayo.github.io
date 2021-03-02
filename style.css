@@ -1,5 +1,5 @@
 body {
-background-image: https://cdn.discordapp.com/attachments/746537725179461735/816448027496808458/goiaba.jpg;
+  background-image: url("https://cdn.discordapp.com/attachments/746537725179461735/816448027496808458/goiaba.jpg");
 }
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 24px;}
