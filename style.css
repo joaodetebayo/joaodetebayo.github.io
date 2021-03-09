@@ -12,7 +12,7 @@ h1 {
 p {
    color: white;
 }
-boton {  
+.botao {  
 font: bold 12px/24px arial, helvetica, sans-aerif;	
 padding:0px;
 text-decoration: none;
