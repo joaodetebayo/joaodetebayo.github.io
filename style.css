@@ -13,14 +13,5 @@ p {
    color: white;
 }
 .botao {  
-font: bold 12px/24px arial, helvetica, sans-aerif;	
-padding:0px;
-text-decoration: none;
-text-align:center;	
-color:#ccc;
-background: #666 url('https://media3.giphy.com/media/JROB2yZw89dFXrPXR9/giphy.gif')
- no-repeat center center;	
-width:120px;  
-height:24px;	
-display:block;	
-	}
+background: #069cc2; border-radius: 6px; padding: 15px; cursor: pointer; color: #fff; border: none; font-size: 16px;
+}
