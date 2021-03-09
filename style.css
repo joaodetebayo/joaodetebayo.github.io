@@ -60,3 +60,13 @@ button {
 .slider li:nth-child(3) label {
     left: 70px;
 }
+.slider img {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.slider li input:checked ~ img {
+    opacity: 1;
+    visibility: visible;
+    z-index: 10;
+}
