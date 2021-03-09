@@ -12,17 +12,3 @@ h1 {
 p {
    color: white;
 }
-button {
-  background-image: url("https://media.giphy.com/media/JROB2yZw89dFXrPXR9/giphy.gif");
-}
-<style>
-@media (max-width: 800px){
-    .gallery {
-        width: 100%;
-    }
-    .controls {
-        width: 100%;
-    }
-}
-.item { color: white;
-}
