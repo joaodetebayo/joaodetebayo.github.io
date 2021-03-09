@@ -35,3 +35,6 @@ button {
     width: 100%;
     vertical-align: top;
 }
+.slider input {
+    display: none;
+}
