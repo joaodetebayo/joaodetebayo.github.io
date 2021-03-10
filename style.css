@@ -1,5 +1,6 @@
 body {
-background: #FF8000 url("pasta/Imagem.jpg") no-repeat right top fixed;
+background-color: blue no-repeat right top fixed;
+background-color: white no-repeat center fixed;
 }
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 24px;}
