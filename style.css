@@ -22,7 +22,7 @@ p {
    color: black;
 }
 .text iframe {
-    position: relative;
+    position: top;
     top: 150px;
     left: -475px;
     width: 320px;
