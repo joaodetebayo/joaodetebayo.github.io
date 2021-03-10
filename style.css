@@ -2,7 +2,11 @@ body {
 background-color: white;
 background-position: center;
 }
-body {
+body { background-position: top;
+background-position: top
+
+}
+	
 	
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 24px;}
