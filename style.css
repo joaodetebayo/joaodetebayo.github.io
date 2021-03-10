@@ -1,29 +1,8 @@
-.inner {
-    width: 1000px;
-    height: 100%;
-    display: block;
-    margin: 0 auto;
-    background-color: #7289da;
-}
-
-* {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    text-decoration: none;
-}
-* {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    text-decoration: none;
-}
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 24px;
     text-align: center;
     background-color:black;
 }
-
 h1 {
     color: white;
 }
