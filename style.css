@@ -1,5 +1,6 @@
 body {
 background-color: white;
+background-position: center;
 }
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 24px;}
