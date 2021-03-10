@@ -1,10 +1,10 @@
-body {
-    background-position: center;
-    background-repeat: no-repeat;   
-    color: #000000;
-    background-attachment: fixed;
-    background-size: 100%;
-    margin: 0; 
+.inner {
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: royalblue;
+}
 }
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 24px;}
