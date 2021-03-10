@@ -8,10 +8,6 @@
   color: white;
   color: rgba(255, 255, 255, 0.8);
 }
-
-/*
-	Theme controls how everything looks in Gallery CSS.
-*/
 .gallery {
   position: relative;
 }
