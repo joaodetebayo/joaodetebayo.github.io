@@ -1,5 +1,5 @@
 body {
-background-color: blue;
+background-color: white;
 }
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 24px;}
@@ -7,11 +7,17 @@ h1{
 	text-align: center;
 }
 h1 {
-    color: white;
+    color: black;
 }
 p {
-   color: white;
+   color: black;
 }
-
+.text iframe {
+    position: relative;
+    top: 150px;
+    left: -475px;
+    width: 320px;
+    height: 500px;
+}
 
 
