@@ -21,11 +21,11 @@
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 24px;
     text-align: center;
-    background-color:darkred;
+    background-color:black;
 }
 
 h1 {
-    color: black;
+    color: white;
 }
 p {
    color: black;
