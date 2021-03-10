@@ -1,9 +1,9 @@
 .inner {
-    width: 1000px;
-    height: 20%;
+    width: 500px;
+    height: 100%;
     display: block;
     margin: 0 auto;
-    background-color: royalblue;
+    background-color: #7289da;
 }
 }
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
