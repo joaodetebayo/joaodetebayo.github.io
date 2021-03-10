@@ -1,4 +1,4 @@
-body2 {
+body {
   background-image: url("https://pa1.narvii.com/6733/3ceb3aca2691b17ded64e71d35cce23ba4bfa682_hq.gif");
 }
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
@@ -12,8 +12,6 @@ h1 {
 p {
    color: white;
 }
-body {
-	background-color: white;
-}
+
 
 
