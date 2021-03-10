@@ -1,9 +1,13 @@
 body {
 background-color: white;
-background-position: center;
+background-size: 50% auto;
 }
-body { background-position: top;
-background-color: black;
+body { background-color: black;
+
+ background-size: 50% auto;
+	
+	
+
 
 }
 	
