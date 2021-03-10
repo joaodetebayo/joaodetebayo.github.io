@@ -15,5 +15,10 @@ p {
 body {
 	background-color: white;
 }
-
+.text iframe {
+    position: relative;
+    top: 150px;
+    left: -475px;
+    width: 320px;
+	height: 500px; }
 
