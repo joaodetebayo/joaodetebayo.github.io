@@ -15,7 +15,7 @@ p {
 body {
 	background-color: white;
 }
-.text iframe {
+iframe {
     position: relative;
     top: 150px;
     left: -475px;
