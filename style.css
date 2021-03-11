@@ -10,11 +10,16 @@ p {
    color: black;
 }
 .text iframe {
-    position: top left;
+    position: left top;
     top: 150px;
     left: -475px;
     width: 320px;
     height: 500px;
+}
+.container {
+    height: 100%;
+    display: table;
+    float: left;
 }
 .container img {
     height: 50%;
