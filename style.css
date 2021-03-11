@@ -24,7 +24,7 @@ p {
   -webkit-background-clip: text;
   color: white;
   -webkit-text-fill-color: transparent;
-  background-color:#FFF;
+  background-color:#7289da;
   background-image: -webkit-gradient(linear,left top,right top,from(#ea8711), to(#d96363));
   background-image: -webkit-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
   background-image: -moz-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
