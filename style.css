@@ -10,7 +10,7 @@ p {
    color: black;
 }
 .text iframe {
-    position: top;
+    position: top left;
     top: 150px;
     left: -475px;
     width: 320px;
