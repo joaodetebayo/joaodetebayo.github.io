@@ -16,5 +16,11 @@ p {
     width: 320px;
     height: 500px;
 }
+.container img {
+    height: 50%;
+    padding: 35px 15px;
+    display: table-cell;
+    vertical-align: middle;
+}
 
 
