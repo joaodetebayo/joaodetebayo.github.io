@@ -1,5 +1,5 @@
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
-h1 {font-size: 24px;
+h1 {font-size: 48px;
     text-align: center;
     background-color: #7289da;
 }
@@ -31,10 +31,4 @@ p {
   background-image: -ms-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
   background-image: -o-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
 }
-body {
-    color: transparent;
-    background-image: linear-gradient(to left, #FFD700, #7B68EE, #3498db, #2ecc71, #FFD700);    
-    background-clip: text;
-    animation: color 3s linear infinite;
-    background-size: 500%;    
-}
+
