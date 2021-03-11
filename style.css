@@ -27,5 +27,7 @@ p {
     display: table-cell;
     vertical-align: middle;
 }
-
+body {
+    background-color: white;
+}
 
