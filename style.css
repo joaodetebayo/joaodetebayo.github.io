@@ -1,10 +1,9 @@
-h1 {font: italic 75%/125%, cursive;}
+h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 24px;
     text-align: center;
     background-color: #7289da;
 }
 .rainbow {
-    font-family: 'Segoe UI';
     animation: colorRotate 6s linear 0s infinite;;
 }
 p {
