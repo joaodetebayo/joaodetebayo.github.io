@@ -3,9 +3,6 @@ h1 {font-size: 24px;
     text-align: center;
     background-color: #7289da;
 }
-.rainbow {
-    animation: colorRotate 6s linear 0s infinite;;
-}
 p {
    color: black;
 }
@@ -21,6 +18,18 @@ p {
     padding: 25px 5px;
     display: table-cell;
     vertical-align: middle;
+}
+.rainbow {
+  font-size:36px;
+  -webkit-background-clip: text;
+  color: white;
+  -webkit-text-fill-color: transparent;
+  background-color:#FFF;
+  background-image: -webkit-gradient(linear,left top,right top,from(#ea8711), to(#d96363));
+  background-image: -webkit-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+  background-image: -moz-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+  background-image: -ms-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+  background-image: -o-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
 }
 
 
