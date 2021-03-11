@@ -3,7 +3,7 @@ h1 {font-size: 24px;
     text-align: center;
     background-color: #7289da;
 }
-h1 {
+.rainbow {
     font-family: 'Segoe UI';
     animation: colorRotate 6s linear 0s infinite;;
 }
