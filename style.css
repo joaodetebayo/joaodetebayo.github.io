@@ -21,7 +21,7 @@ p {
 }
 .rainbow {
   font-size:48px;
-  -webkit-background-clip: text;
+  -webkit-background-: text;
   color: white;
   -webkit-text-fill-color: transparent;
   background-color:#7289da;
